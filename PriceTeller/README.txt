@@ -10,4 +10,4 @@ Output format
 MOWER $122 in Homedepot
 
 Additional Feature
-Put a picture if available
+Put a picture of the object if possible
