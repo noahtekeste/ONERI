@@ -1,4 +1,4 @@
-This is a webscraper program that tells price of an object from a given website
+This is a webscraper and/or web crawler program that tells price of an object from a given website
 Inputs
 Object name: eg. Mower, Grill, Washer etc
 Website to search in: eg. Homedepot, Amazon, Walmart etc
